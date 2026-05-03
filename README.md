@@ -24,8 +24,6 @@ The Sales Director ("Shaun") required an "Opportunities Analysis" to prepare for
 
 ## 📊 The Dashboard
 
-*(Note: Add the screenshots you took to a folder named `dashboards/` in this repository to make these images visible!)*
-
 ### 1. Executive Overview
 ![Executive Overview](dashboards/page1.png)
 *High-level summary of total sales, profit, margins, and category performance.*
