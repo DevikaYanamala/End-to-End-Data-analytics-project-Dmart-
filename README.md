@@ -48,5 +48,4 @@ The Sales Director ("Shaun") required an "Opportunities Analysis" to prepare for
 - `DMart_PowerBI_Data.xlsx`: The Star Schema structured data used for the Power BI model.
 - `prepare_powerbi_data.py`: Python script used to clean the raw data and generate the Star Schema.
 - `dmart_analysis.py`: Python script containing comprehensive Exploratory Data Analysis (EDA).
-- `DMart_Opportunities_Analysis.pptx`: Executive summary presentation.
 - `dashboards/`: Directory containing the final Power BI file (`.pbix`) and screenshots.
